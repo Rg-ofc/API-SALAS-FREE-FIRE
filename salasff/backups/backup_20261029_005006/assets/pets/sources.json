@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1300000001,
+    "name": "Kitty",
+    "description": "I am Kitty, a cute kitty.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Cat.png",
+    "icon_url": "/assets/pets/1300000001.png"
+  },
+  {
+    "id": 1300000011,
+    "name": "Mechanical Pup",
+    "description": "Man's best friend mixed with modern technology.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Dog.png",
+    "icon_url": "/assets/pets/1300000011.png"
+  },
+  {
+    "id": 1300000021,
+    "name": "Night Panther",
+    "description": "The end is near... (Pet Skill: Increase inventory space)",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Panther.png",
+    "icon_url": "/assets/pets/1300000021.png"
+  },
+  {
+    "id": 1300000031,
+    "name": "Detective Panda",
+    "description": "I will protect the world! (Skill: Panda's Blessings)",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Panda.png",
+    "icon_url": "/assets/pets/1300000031.png"
+  },
+  {
+    "id": 1300000041,
+    "name": "Shiba",
+    "description": "BAM! Shiba is here! Prepare yourselves!",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Shiba.png",
+    "icon_url": "/assets/pets/1300000041.png"
+  },
+  {
+    "id": 1300000051,
+    "name": "Spirit Fox",
+    "description": "A fox that traveled from somewhere far away. Also known as man's second best friend.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Fox.png",
+    "icon_url": "/assets/pets/1300000051.png"
+  },
+  {
+    "id": 1300000061,
+    "name": "Robo",
+    "description": "Once a helpful house robot, Robo ended up on this island after wandering astray.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Robot.png",
+    "icon_url": "/assets/pets/1300000061.png"
+  },
+  {
+    "id": 1300000071,
+    "name": "Poring",
+    "description": "A big fan of apples, and follows anyone with the fruit. Careful not to lose your pet this way.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Poring.png",
+    "icon_url": "/assets/pets/1300000071.png"
+  },
+  {
+    "id": 1300000081,
+    "name": "Ottero",
+    "description": "Sleeps with its headphones on, a musically talented otter",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Otter.png",
+    "icon_url": "/assets/pets/1300000081.png"
+  },
+  {
+    "id": 1300000091,
+    "name": "Falco",
+    "description": "When it spreads its wings and soars, sky and land merges at the horizon.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Hawk.png",
+    "icon_url": "/assets/pets/1300000091.png"
+  },
+  {
+    "id": 1300000101,
+    "name": "Mr. Waggor",
+    "description": "Once a guinea pig in the lab, Mr. Waggor was brought home as a pet due to his cuteness. That led to his great escape and subsequent wandering life.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Penguin.png",
+    "icon_url": "/assets/pets/1300000101.png"
+  },
+  {
+    "id": 1300000111,
+    "name": "Rockie",
+    "description": "After dying its hair green, Rockie learnt that the color has already gone out of fashion.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Raccoon.png",
+    "icon_url": "/assets/pets/1300000111.png"
+  },
+  {
+    "id": 1300000112,
+    "name": "Beaston",
+    "description": "Don't judge by his looks. He has a soft heart.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Baboon.png",
+    "icon_url": "/assets/pets/1300000112.png"
+  },
+  {
+    "id": 1300000113,
+    "name": "Dreki",
+    "description": "Nothing is known of his past, or of why he's here. Perhaps he has come to answer to a calling",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Dragon.png",
+    "icon_url": "/assets/pets/1300000113.png"
+  },
+  {
+    "id": 1300000114,
+    "name": "Moony",
+    "description": "Although not from this world, he loves everything about us!",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Alien.png",
+    "icon_url": "/assets/pets/1300000114.png"
+  },
+  {
+    "id": 1300000115,
+    "name": "Dr. Beanie",
+    "description": "He insists on everyone calling him Dr. He is not one though.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Duck.png",
+    "icon_url": "/assets/pets/1300000115.png"
+  },
+  {
+    "id": 1300000116,
+    "name": "Sensei Tig",
+    "description": "Tig is my name, and slick is my game.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Tiger_Ninja.png",
+    "icon_url": "/assets/pets/1300000116.png"
+  },
+  {
+    "id": 1300000117,
+    "name": "Agent Hop",
+    "description": "A scar on the left eye, a past never to be forgotten.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Rabbit.png",
+    "icon_url": "/assets/pets/1300000117.png"
+  },
+  {
+    "id": 1300000118,
+    "name": "Yeti",
+    "description": "Admire my silky fur",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Yeti.png",
+    "icon_url": "/assets/pets/1300000118.png"
+  },
+  {
+    "id": 1300000119,
+    "name": "Flash",
+    "description": "I got my name from a famous race",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Tortoise.png",
+    "icon_url": "/assets/pets/1300000119.png"
+  },
+  {
+    "id": 1300000120,
+    "name": "Zasil",
+    "description": "I heard that you think I'm adorable",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Axolotl.png",
+    "icon_url": "/assets/pets/1300000120.png"
+  },
+  {
+    "id": 1300000121,
+    "name": "Finn",
+    "description": "Dare to challenge me for a swim?",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Surfshark.png",
+    "icon_url": "/assets/pets/1300000121.png"
+  },
+  {
+    "id": 1300000122,
+    "name": "Hoot",
+    "description": "I'm not just an owl, I am a hoot!",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Owl.png",
+    "icon_url": "/assets/pets/1300000122.png"
+  },
+  {
+    "id": 1300000123,
+    "name": "Fang",
+    "description": "Loyalty is virtue",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Wolf.png",
+    "icon_url": "/assets/pets/1300000123.png"
+  },
+  {
+    "id": 1300000124,
+    "name": "Arvon",
+    "description": "To me, every win is an easy win",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Flyingcreature.png",
+    "icon_url": "/assets/pets/1300000124.png"
+  },
+  {
+    "id": 1300000125,
+    "name": "Kactus",
+    "description": "Mostly we grow.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Cactus.png",
+    "icon_url": "/assets/pets/1300000125.png"
+  },
+  {
+    "id": 1300000126,
+    "name": "Pug",
+    "description": "Looking slick in a suit, Pug is aiming straight for your heart!",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_Pug.png",
+    "icon_url": "/assets/pets/1300000126.png"
+  },
+  {
+    "id": 1300000127,
+    "name": "Agumon",
+    "description": "Agumon is Taichi's partner and a Reptile Digimon.",
+    "source": "https://raw.githubusercontent.com/0xme/ff-resources/refs/heads/main/pngs/300x300/Icon_Pet_DA.png",
+    "icon_url": "/assets/pets/1300000127.png"
+  }
+]

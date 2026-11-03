@@ -1,0 +1,457 @@
+[
+  {
+    "id": 146,
+    "name": "Alok",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/a70eade092c0b46830ea2f921b9ba679.jpg",
+    "source": "https://ff.garena.com/en/chars/146/",
+    "local": "/assets/characters/146.jpg"
+  },
+  {
+    "id": 794,
+    "name": "Ray",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20264/5e22e9450c4fbf6fb582590805775165.png",
+    "source": "https://ff.garena.com/en/chars/794/",
+    "local": "/assets/characters/794.png"
+  },
+  {
+    "id": 14,
+    "name": "rafael",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/66889d690d91e0c71f1289d84c965019.jpg",
+    "source": "https://ff.garena.com/en/chars/14/",
+    "local": "/assets/characters/14.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Shani",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/28b936e2423b4d50469cf94b9e264e20.jpg",
+    "source": "https://ff.garena.com/en/chars/148/",
+    "local": "/assets/characters/148.jpg"
+  },
+  {
+    "id": 178,
+    "name": "Jota",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/e5d69f4111a0f6fa6e48f6289703acee.jpg",
+    "source": "https://ff.garena.com/en/chars/178/",
+    "local": "/assets/characters/178.jpg"
+  },
+  {
+    "id": 785,
+    "name": "Morse",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20261/33b58cc0ca29f41dfef8a08e5eef168f.png",
+    "source": "https://ff.garena.com/en/chars/785/",
+    "local": "/assets/characters/785.png"
+  },
+  {
+    "id": 5,
+    "name": "laura",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/4180fdc226f0439383e56415565690a3.jpg",
+    "source": "https://ff.garena.com/en/chars/5/",
+    "local": "/assets/characters/5.jpg"
+  },
+  {
+    "id": 13,
+    "name": "ford",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/202211/a7ca236c0f2a144941f979fdc6368d96.jpg",
+    "source": "https://ff.garena.com/en/chars/13/",
+    "local": "/assets/characters/13.jpg"
+  },
+  {
+    "id": 209,
+    "name": "Clu",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/4e87e832d5ee9c01c2a4ddb41b74cfc9.jpg",
+    "source": "https://ff.garena.com/en/chars/209/",
+    "local": "/assets/characters/209.jpg"
+  },
+  {
+    "id": 775,
+    "name": "Nero",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/202510/7a2811f2885a522b89f32cd37828c90e.png",
+    "source": "https://ff.garena.com/en/chars/775/",
+    "local": "/assets/characters/775.png"
+  },
+  {
+    "id": 11,
+    "name": "caroline",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/d897cece0f1c69b7ab831691d2290a1d.jpg",
+    "source": "https://ff.garena.com/en/chars/11/",
+    "local": "/assets/characters/11.jpg"
+  },
+  {
+    "id": 18,
+    "name": "olivia",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/202211/028c8d9c4888d22fb18f8a3870f83af8.jpg",
+    "source": "https://ff.garena.com/en/chars/18/",
+    "local": "/assets/characters/18.jpg"
+  },
+  {
+    "id": 210,
+    "name": "Wolfrahh",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/ac06a49b3fd4392e890002c77479279e.jpg",
+    "source": "https://ff.garena.com/en/chars/210/",
+    "local": "/assets/characters/210.jpg"
+  },
+  {
+    "id": 767,
+    "name": "Rin",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20257/9cd6a860ab524b4e3224edbe60cc2c18.png",
+    "source": "https://ff.garena.com/en/chars/767/",
+    "local": "/assets/characters/767.png"
+  },
+  {
+    "id": 7,
+    "name": "wukong",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/e83ad233e525eb0f50067996dbefff5c.jpg",
+    "source": "https://ff.garena.com/en/chars/7/",
+    "local": "/assets/characters/7.jpg"
+  },
+  {
+    "id": 737,
+    "name": "Lila",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20249/76d280ddbdaa123c7dbfa32fba575ccb.png",
+    "source": "https://ff.garena.com/en/chars/737/",
+    "local": "/assets/characters/737.png"
+  },
+  {
+    "id": 752,
+    "name": "Jai",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/202412/95e7de367cd0ed2ae3a6952cd6d9aa96.png",
+    "source": "https://ff.garena.com/en/chars/752/",
+    "local": "/assets/characters/752.png"
+  },
+  {
+    "id": 753,
+    "name": "Oscar",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20252/8a6f220ed4f93b8cb3d2046d7edd21c0.png",
+    "source": "https://ff.garena.com/en/chars/753/",
+    "local": "/assets/characters/753.png"
+  },
+  {
+    "id": 2,
+    "name": "andrew",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/a0c2ca99a712cb3fab185f337aad1571.jpg",
+    "source": "https://ff.garena.com/en/chars/2/",
+    "local": "/assets/characters/2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "kla",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/704b2dc7227d8138fe18089303ef08ec.jpg",
+    "source": "https://ff.garena.com/en/chars/8/",
+    "local": "/assets/characters/8.jpg"
+  },
+  {
+    "id": 145,
+    "name": "Alvaro",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/cd13747f0f8da1e1a3f2947eb16c7e54.jpg",
+    "source": "https://ff.garena.com/en/chars/145/",
+    "local": "/assets/characters/145.jpg"
+  },
+  {
+    "id": 720,
+    "name": "Kassie",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20246/0766afff66f05303afd7ba0bd91e42ba.jpg",
+    "source": "https://ff.garena.com/en/chars/720/",
+    "local": "/assets/characters/720.jpg"
+  },
+  {
+    "id": 6,
+    "name": "a124",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/af98757cfd68f7404e81fb6a23a5fd0c.jpg",
+    "source": "https://ff.garena.com/en/chars/6/",
+    "local": "/assets/characters/6.jpg"
+  },
+  {
+    "id": 15,
+    "name": "maxim",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/0d48cf75e78b8a7eea0fd3514f5f86a9.jpg",
+    "source": "https://ff.garena.com/en/chars/15/",
+    "local": "/assets/characters/15.jpg"
+  },
+  {
+    "id": 17,
+    "name": "antonio",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/d52dfdfb478a046c404510c6fb6fcd37.jpg",
+    "source": "https://ff.garena.com/en/chars/17/",
+    "local": "/assets/characters/17.jpg"
+  },
+  {
+    "id": 719,
+    "name": "Kairos",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20246/fc3c3fb65af32c493fc11997144c38ff.jpg",
+    "source": "https://ff.garena.com/en/chars/719/",
+    "local": "/assets/characters/719.jpg"
+  },
+  {
+    "id": 9,
+    "name": "misha",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/73629bde7e84e50fdf80f1c887bc7068.jpg",
+    "source": "https://ff.garena.com/en/chars/9/",
+    "local": "/assets/characters/9.jpg"
+  },
+  {
+    "id": 12,
+    "name": "paloma",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/5594373c232a7a370acdcf525d136a75.jpg",
+    "source": "https://ff.garena.com/en/chars/12/",
+    "local": "/assets/characters/12.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Notora",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/3ce12be562d09f0870f32059d665a166.jpg",
+    "source": "https://ff.garena.com/en/chars/147/",
+    "local": "/assets/characters/147.jpg"
+  },
+  {
+    "id": 707,
+    "name": "Ryden",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20241/1429e27a79ef828c02824835237268e7.jpg",
+    "source": "https://ff.garena.com/en/chars/707/",
+    "local": "/assets/characters/707.jpg"
+  },
+  {
+    "id": 4,
+    "name": "miguel",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/b12289502429a9a0041a97b5045922db.jpg",
+    "source": "https://ff.garena.com/en/chars/4/",
+    "local": "/assets/characters/4.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Joseph",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/223611ff7174d5fa4d21483b65c4db93.jpg",
+    "source": "https://ff.garena.com/en/chars/149/",
+    "local": "/assets/characters/149.jpg"
+  },
+  {
+    "id": 150,
+    "name": "Steffie",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/03ca5480fde26a107b8cda52a86f6c3b.jpg",
+    "source": "https://ff.garena.com/en/chars/150/",
+    "local": "/assets/characters/150.jpg"
+  },
+  {
+    "id": 695,
+    "name": "Ignis",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/202310/cc97c93c0411786dd9e0a9117b07a718.png",
+    "source": "https://ff.garena.com/en/chars/695/",
+    "local": "/assets/characters/695.png"
+  },
+  {
+    "id": 10,
+    "name": "Moco",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/bf332f7ec2894f210b790f5a806d3688.jpg",
+    "source": "https://ff.garena.com/en/chars/10/",
+    "local": "/assets/characters/10.jpg"
+  },
+  {
+    "id": 16,
+    "name": "nikita",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/adf2c488a596e3cfdcb642790fd61f78.jpg",
+    "source": "https://ff.garena.com/en/chars/16/",
+    "local": "/assets/characters/16.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Kapella",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/c641a1418331ba2366becc61917a5768.jpg",
+    "source": "https://ff.garena.com/en/chars/177/",
+    "local": "/assets/characters/177.jpg"
+  },
+  {
+    "id": 677,
+    "name": "Suzy",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20238/c6fce045517e23d753e11fddb5da6c94.png",
+    "source": "https://ff.garena.com/en/chars/677/",
+    "local": "/assets/characters/677.png"
+  },
+  {
+    "id": 3,
+    "name": "hayato",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/a08fc9230b86ae0a908785c1dad65176.jpg",
+    "source": "https://ff.garena.com/en/chars/3/",
+    "local": "/assets/characters/3.jpg"
+  },
+  {
+    "id": 676,
+    "name": "Sonia",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20238/0f9fda644dc6ec82077ae9f17a7bdeee.png",
+    "source": "https://ff.garena.com/en/chars/676/",
+    "local": "/assets/characters/676.png"
+  },
+  {
+    "id": 1,
+    "name": "kelly",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/d2db677ec07f515210dbde335a9ec35b.jpg",
+    "source": "https://ff.garena.com/en/chars/1/",
+    "local": "/assets/characters/1.jpg"
+  },
+  {
+    "id": 680,
+    "name": "Orion",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20238/5ca9e2ced3e86173742fb5ccbafbfc7c.png",
+    "source": "https://ff.garena.com/en/chars/680/",
+    "local": "/assets/characters/680.png"
+  },
+  {
+    "id": 243,
+    "name": "Luqueta",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/385f60298bb1257eb065814e484e3a98.jpg",
+    "source": "https://ff.garena.com/en/chars/243/",
+    "local": "/assets/characters/243.jpg"
+  },
+  {
+    "id": 668,
+    "name": "Santino",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20233/c3aefc7c9da1f02dbb7a6c9781d11223.png",
+    "source": "https://ff.garena.com/en/chars/668/",
+    "local": "/assets/characters/668.png"
+  },
+  {
+    "id": 255,
+    "name": "K",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/026d9ab7e3fe7d6c8b6d93f3429a8929.jpg",
+    "source": "https://ff.garena.com/en/chars/255/",
+    "local": "/assets/characters/255.jpg"
+  },
+  {
+    "id": 614,
+    "name": "Luna",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/202211/3aa516238fe24e17f696d6691d76230e.jpg",
+    "source": "https://ff.garena.com/en/chars/614/",
+    "local": "/assets/characters/614.jpg"
+  },
+  {
+    "id": 293,
+    "name": "Dasha",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/033f240ffc691610299a4a53e36af064.jpg",
+    "source": "https://ff.garena.com/en/chars/293/",
+    "local": "/assets/characters/293.jpg"
+  },
+  {
+    "id": 602,
+    "name": "Tatsuya",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20229/9f14a2d888c5e9942ebeab662f0baa9d.jpg",
+    "source": "https://ff.garena.com/en/chars/602/",
+    "local": "/assets/characters/602.jpg"
+  },
+  {
+    "id": 299,
+    "name": "Chrono",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20255/f5e7fc66da1637bb647a322aff8f2be6.png",
+    "source": "https://ff.garena.com/en/chars/299/",
+    "local": "/assets/characters/299.png"
+  },
+  {
+    "id": 552,
+    "name": "A-Patroa",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/0e0c9e7e313ad027ffb10b16ab541c85.jpg",
+    "source": "https://ff.garena.com/en/chars/552/",
+    "local": "/assets/characters/552.jpg"
+  },
+  {
+    "id": 405,
+    "name": "Shirou",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/283735530891c548752ec382b6305aef.jpg",
+    "source": "https://ff.garena.com/en/chars/405/",
+    "local": "/assets/characters/405.jpg"
+  },
+  {
+    "id": 551,
+    "name": "Iris",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/6480e582c150a6cc1eea87a574c73bb3.jpg",
+    "source": "https://ff.garena.com/en/chars/551/",
+    "local": "/assets/characters/551.jpg"
+  },
+  {
+    "id": 446,
+    "name": "Xayne",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20229/dcf4ef95cb52f05b54aac536835b9069.jpg",
+    "source": "https://ff.garena.com/en/chars/446/",
+    "local": "/assets/characters/446.jpg"
+  },
+  {
+    "id": 550,
+    "name": "J.Biebs",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/20255/5c7df9fce2d58d497f9109695031083c.png",
+    "source": "https://ff.garena.com/en/chars/550/",
+    "local": "/assets/characters/550.png"
+  },
+  {
+    "id": 462,
+    "name": "Skyler",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/d80ec825b9fbc04dfcfcf5f0cda2936b.jpg",
+    "source": "https://ff.garena.com/en/chars/462/",
+    "local": "/assets/characters/462.jpg"
+  },
+  {
+    "id": 537,
+    "name": "Homer",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/d38a9c2d15baa8ef394e84fecd6cf3bf.jpg",
+    "source": "https://ff.garena.com/en/chars/537/",
+    "local": "/assets/characters/537.jpg"
+  },
+  {
+    "id": 447,
+    "name": "Maro",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/8970bc948305526929291298ec99b4b0.jpg",
+    "source": "https://ff.garena.com/en/chars/447/",
+    "local": "/assets/characters/447.jpg"
+  },
+  {
+    "id": 535,
+    "name": "Kenta",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/4b529771e42b69f3e50d4a1d572e78e0.jpg",
+    "source": "https://ff.garena.com/en/chars/535/",
+    "local": "/assets/characters/535.jpg"
+  },
+  {
+    "id": 464,
+    "name": "D-bee",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/b1b478038d7f07fca5c9dbce93a4372e.jpg",
+    "source": "https://ff.garena.com/en/chars/464/",
+    "local": "/assets/characters/464.jpg"
+  },
+  {
+    "id": 536,
+    "name": "Nairi",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/300ddc78efd5c952d2e93e23d54d26f1.jpg",
+    "source": "https://ff.garena.com/en/chars/536/",
+    "local": "/assets/characters/536.jpg"
+  },
+  {
+    "id": 477,
+    "name": "Dimitri",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/cc216b3ef2839215ad1b1fbcc6e206d6.jpg",
+    "source": "https://ff.garena.com/en/chars/477/",
+    "local": "/assets/characters/477.jpg"
+  },
+  {
+    "id": 505,
+    "name": "Otho",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/e4c77f3021f20279c7f68c8335bd58ce.jpg",
+    "source": "https://ff.garena.com/en/chars/505/",
+    "local": "/assets/characters/505.jpg"
+  },
+  {
+    "id": 478,
+    "name": "Thiva",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/906671b9b26579f3f87e55258d0800d4.jpg",
+    "source": "https://ff.garena.com/en/chars/478/",
+    "local": "/assets/characters/478.jpg"
+  },
+  {
+    "id": 504,
+    "name": "Leon",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/img/20228/16b43d9410ed4010a4a88c812cd57bc6.jpg",
+    "source": "https://ff.garena.com/en/chars/504/",
+    "local": "/assets/characters/504.jpg"
+  },
+  {
+    "id": 750,
+    "name": "Koda",
+    "icon": "https://cdn.wildflamestudio.com/common/web_event/official2.ff.garena.all/202412/4a5c66e3839445727acddf5bf44c846b.png",
+    "source": "https://ff.garena.com/en/chars/750/",
+    "local": "/assets/characters/750.png"
+  }
+]
